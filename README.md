@@ -1,5 +1,8 @@
 
 # BasicWebServletsIn28Minutes
+
+Video Tutorial : https://www.youtube.com/watch?v=ndQ6NWPp8-U
+
 Learn JSP and Servlets in28Minutes.
 
 See JavaJEEWebApplicationIn28Minutes.pdf for more details.
