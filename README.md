@@ -1,5 +1,5 @@
 
-# BasicWebServletsIn28Minutes
+# JEE Java Web Application for Beginners - In28Minutes
 
 Video Tutorial : https://www.youtube.com/watch?v=ndQ6NWPp8-U
 
