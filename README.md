@@ -55,14 +55,6 @@ https://www.youtube.com/watch?v=ndQ6NWPp8-U
 - We will be developing a demo application in the course, which could be reused in your projects, saving hours of your effort.
 - All the code is available on Github, for most steps.
 
-### Useful Links
-- [Our Website](http://www.in28minutes.com)
-- [Youtube Courses](https://www.youtube.com/user/rithustutorials/playlists)
-- [Udemy Courses](https://www.udemy.com/user/in28minutes/)
-- [Facebook](http://facebook.com/in28minutes)
-- [Twitter](http://twitter.com/in28minutes)
-- [Google Plus](https://plus.google.com/u/3/110861829188024231119)
-
 ### Other Courses
 
 - [Most Watched Courses on YouTube - 30,000 Subscribers](https://www.youtube.com/watch?v=bNFoN956P2A&list=PLBBog2r6uMCQhZaQ9vUT5zJWXzz-f49k1)
@@ -78,3 +70,9 @@ https://www.youtube.com/watch?v=ndQ6NWPp8-U
   * [Maven Tutorial - Manage Java Dependencies in 25 Steps](https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/?couponCode=MAVEN_GIT)
   * [Java OOPS in 1 Hours](https://www.udemy.com/learn-object-oriented-programming-in-java/?couponCode=OOPS-GIT)
   * [C Puzzle for Interview](https://www.udemy.com/c-puzzles-for-beginners/?couponCode=CPUZZLES-GIT)
+  
+### Useful Links
+- [Our Website](http://www.in28minutes.com)
+- [Facebook](http://facebook.com/in28minutes)
+- [Twitter](http://twitter.com/in28minutes)
+- [Google Plus](https://plus.google.com/u/3/110861829188024231119)
