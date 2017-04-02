@@ -7,6 +7,8 @@ SUCCESS - ${email} : ${password}
 <BR/> <BR/> Scriptlet
 <BR/>~~~~~~~~~~~~~~~~~<BR/>
 <%
+
+
 	out.println(new Date().toString());
 	out.println(request.getAttribute("email"));
 %>
@@ -17,7 +19,9 @@ SUCCESS - ${email} : ${password}
 
 <BR/> <BR/> Comments
 <BR/>~~~~~~~~~~~~~~~~~~~~~~<BR/>
+
 <!--Comment 1  -->
+
 <%-- Comment 2--%>
 
 <BR/> <BR/> Expression Language (EL)
