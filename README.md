@@ -11,8 +11,11 @@ See JavaJEEWebApplicationIn28Minutes.pdf for more details.
   - [Find Us](#useful-links)
   - [Other Courses](#other-courses)
 
-### Video Tutorial
-https://www.youtube.com/watch?v=ndQ6NWPp8-U
+### Complete Free Course
+- https://www.udemy.com/learn-java-servlets-and-jsp-web-application-in-25-steps/
+
+### More Courses and Videos From in28Minutes
+- https://github.com/in28minutes/learn
 
 ### Running Examples
 - If you are downloading the zip file, unzip the file
