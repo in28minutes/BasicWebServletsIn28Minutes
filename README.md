@@ -41,7 +41,7 @@ See JavaJEEWebApplicationIn28Minutes.pdf for more details.
         Redirecting to different views from Servlet
 
 
-## Keep Learning Every Day**
+## Keep Learning Every Day
 - **1:** [FOLLOW](https://links.in28minutes.com/lin) Ranga on LinkedIn
 
 ## Check Out Our Amazing ROADMAPS
